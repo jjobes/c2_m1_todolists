@@ -2,4 +2,4 @@
 
 Created for the course {Rails with Active Record and Action Pack}[https://www.coursera.org/learn/rails-with-active-record/].
 
-This is an assignment that demonstrates how easy it is to perform basic CRUD operations with Active Record.
+Assignment for Module #1: Basic Active Record CRUD
